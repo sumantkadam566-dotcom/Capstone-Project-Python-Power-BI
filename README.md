@@ -15,16 +15,7 @@ Short project summary: analyze customer churn, build Power BI dashboards, and pe
 - **src** reusable Python modules
 - **reports** final report and figures
 
-## Quick start
-1. Clone the repo  
-2. Create environment  
-```bash
-python -m venv venv
-source venv/bin/activate
-
-
 **Author**: Sumant Hanamant Kadam
 sumantkadam566@gmail.com
 
-pip install -r requirements.txt
 
