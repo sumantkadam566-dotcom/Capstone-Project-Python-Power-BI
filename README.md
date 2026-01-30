@@ -86,6 +86,4 @@ Focus retention strategies on high-risk segments
 Improve customer lifetime value
 Support data-driven decision-making through dashboards
 
-👤 Author Sumant Kadam
-Aspiring Data Analyst 
-📧 (sumantkadam566@gmail.com.com)
+👤 Author Sumant Kadam Aspiring Data Analyst  📧 (sumantkadam566@gmail.com.com)
